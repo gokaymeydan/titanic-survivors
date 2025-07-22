@@ -16,6 +16,4 @@ python titanic1.py
 ## Model
 - Classifier: XGBoost
 - Cross-validation mean accuracy: ~0.8249
-
-## Features
-- Pclass, Sex, Age, Fare, Embarked, Title, FamilySize, IsAlone
+- Features: Pclass, Sex, Age, Fare, Embarked, Title, FamilySize, IsAlone
